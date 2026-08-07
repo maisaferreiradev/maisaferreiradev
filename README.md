@@ -45,7 +45,7 @@ Gosto de transformar ideias em soluções funcionais e, principalmente, de apren
 
 ---
 
-## ⚙️ Ferramentas
+## ⚙️ Tools
 
 <div align="center">
 
