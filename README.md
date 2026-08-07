@@ -25,15 +25,13 @@
 
 ---
 
-## 👩‍💻 Sobre mim
+👩‍💻 Olá, eu sou a Maisa!
 
-Olá! Eu sou **Maisa Ferreira**, estudante de **Bacharelado em Sistemas de Informação**.
+Sou estudante de Bacharelado em Sistemas de Informação e estou construindo minha jornada no mundo da tecnologia.
 
-💻 Tenho interesse em **desenvolvimento de software e desenvolvimento web**.
+Tenho interesse principalmente em desenvolvimento de software, desenvolvimento web e criação de sistemas.
 
-🚀 Atualmente estou aprendendo, criando projetos e evoluindo minhas habilidades como desenvolvedora.
-
----
+Gosto de transformar ideias em soluções funcionais e, principalmente, de aprender colocando a mão no código.
 
 ## 🧠 Tech Stack
 
