@@ -8,7 +8,7 @@
 
 ---
 
-## 💜 MAISA AI CORE
+## 💜 Maisa Dev Core
 
 <div align="center">
 
