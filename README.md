@@ -20,6 +20,7 @@
 **◈ Projects loading...**
 
 `STATUS: ONLINE ●`
+"Every great system starts with a single line of code."
 
 </div>
 
