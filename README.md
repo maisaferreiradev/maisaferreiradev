@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7C3AED,100:C084FC&height=200&section=header&text=MAISA%20FERREIRA&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=40&desc=SYSTEMS%20INFORMATION%20%7C%20DEVELOPER%20IN%20PROGRESS&descAlignY=65&descSize=15"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Initializing+Maisa+AI...;System+Online+%E2%9C%93;Welcome+to+my+GitHub+%F0%9F%92%9C;Future+Web+Developer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=System+Online+%E2%9C%93;Welcome+to+my+GitHub+%F0%9F%92%9C;Future+Web+Developer"/>
 
 </div>
 
